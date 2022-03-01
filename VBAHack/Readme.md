@@ -16,3 +16,6 @@ It requires adding references to the files below:
 	 - _NOTE you must open this and add a reference to `MemoryTools.xlam` since it relies on that addin too_
 
 **ALL vba prjects are password protected; password = "1"**
+
+  [3]: https://stackoverflow.com/a/42581513/6609896
+  [4]: https://www.dll-files.com/tlbinf32.dll.html
