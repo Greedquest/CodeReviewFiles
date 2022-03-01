@@ -15,4 +15,4 @@ It requires adding references to the files below:
 	 - Methods `CallFunction`, `CallCOMObjectVTableEntry` & `CallVBAFuncPtr` which wrap `DispCallFunc` and allow you to invoke function pointers
 	 - NOTE you must open this add add a reference to `MemoryTools.xlam` since it relies on that addin too
 
-ALL vba prjects are password protected; password = "1"
+**ALL vba prjects are password protected; password = "1"**
