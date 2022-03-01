@@ -13,6 +13,6 @@ It requires adding references to the files below:
 	 - VTables** for `IUnknown`, `IDispatch` and the other various interfaces that crop up
 	 - Standard methods like `ObjectFromObjPtr` and `QueryInterface` for dealing with interfaces
 	 - Methods `CallFunction`, `CallCOMObjectVTableEntry` & `CallVBAFuncPtr` which wrap `DispCallFunc` and allow you to invoke function pointers
-	 - NOTE you must open this add add a reference to `MemoryTools.xlam` since it relies on that addin too
+	 - _NOTE you must open this and add a reference to `MemoryTools.xlam` since it relies on that addin too_
 
 **ALL vba prjects are password protected; password = "1"**
