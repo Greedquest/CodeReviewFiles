@@ -1,6 +1,6 @@
 # QUICKSTART:
- - Download [VBAHack Demo.xlsm](./VBAHack%20Demo.xlsm?raw=True) anywhere you like (this is the file you will open)
  - Download [ModuleReflection.xlam](./ModuleReflection.xlam?raw=True), [COMTools.xlam](./COMTools.xlam?raw=True) and [MemoryTools.xlam](./MemoryTools.xlam?raw=True), and put all three in the folder `C:\ProgramData\Temp\VBAHack`
+ - Download [VBAHack Demo.xlsm](./VBAHack%20Demo.xlsm?raw=True) anywhere you like (this is the file you will open)
  - Open VBAHack Demo.xlsm and press <kbd>Alt</kbd>+<kbd>F11</kbd> to view the code. Navigate to the experiments module where there is some demo code showcasing the reflection/ module accessor library.
 
 
